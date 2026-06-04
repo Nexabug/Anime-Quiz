@@ -1,7 +1,7 @@
 import React, { useEffect, useReducer, useState } from "react";
 import Header from "./components/Header";
 import Logo from "./components/Logo";
-import "./App.css";
+import "./App.scss";
 import Progress from "./components/Progress";
 import Main from "./components/Main.jsx";
 import Questions from "./components/Questions.jsx";
